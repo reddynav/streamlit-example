@@ -1,1 +1,0 @@
-python -m streamlit run word_cloud.py
